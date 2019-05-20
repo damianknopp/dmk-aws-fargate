@@ -6,8 +6,7 @@ A hello world demo with AWS FARGATE using `terraform`
 
 This demo requires you to install [`terraform`](https://www.terraform.io/)
 
-
-# Setup
+## Setup
 
 `terraform` scripts will require you to create an AWS account with the correct policies and roles applied.  Once you have created the account it will need to be set in `~/.aws/credentials`
 
